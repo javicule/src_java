@@ -57,3 +57,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Ignore dist/ and build/ folders
+dist/
+build/
