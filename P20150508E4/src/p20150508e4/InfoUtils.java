@@ -11,6 +11,8 @@ package p20150508e4;
 public class InfoUtils {
 
 // COMENTARIO HECHO PARA EL EJERCICIO DE ENTORNOS. IVAN. 
+    
+    // OTRO COMENTARIO 4/6/2015 22:55 
 
     /**
      * Devuelve la cantidad de memoria pasada como argumento, pero normalizada a bytes.
